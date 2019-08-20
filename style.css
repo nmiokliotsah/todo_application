@@ -1,0 +1,16 @@
+body{
+	background-color:#808080; 
+}
+
+.todoDone {
+	text-decoration: line-through;
+	font-style: italic;
+	color: gray;
+}
+
+.btn-block{
+	padding-top: 20px;
+}
+
+
+
